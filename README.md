@@ -1,5 +1,5 @@
 # hello-world
-my firs repo! tahuuu
+my first repo! tahuuu
 i like tahuuu 
 
 tahuuu is my favorite food, i like to eat tahuuu every single day
